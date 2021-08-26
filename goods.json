@@ -1,0 +1,30 @@
+{
+    "1234" : {
+        "name" : "Apples",
+        "cost" : 2.5,
+        "description" : "juicy ripe",
+        "order" : 3,
+        "img" : "apple.png"
+    },
+    "1235" : {
+        "name" : "Cherry",
+        "cost" : 4.5,
+        "description" : "sour red",
+        "order" : 5,
+        "img" : "cherry.png"
+    },
+    "1236" : {
+        "name" : "Grape",
+        "cost" : 8.0,
+        "description" : "Sweet, red and green",
+        "order" : 1,
+        "img" : "grape.png"
+    },
+    "1237" : {
+        "name" : "Watermelon",
+        "cost" : 1.5,
+        "description" : "sweet red",
+        "order" : 8,
+        "img" : "watermelon.png"
+    }
+}
